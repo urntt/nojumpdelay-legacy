@@ -1,5 +1,14 @@
 # NoJumpDelay
 
+> [!IMPORTANT]
+> **This repository is archived and no longer maintained.**
+>
+> NoJumpDelay has been rebuilt as a new mod. Development continues at
+> [urntt/nojumpdelay](https://github.com/urntt/nojumpdelay).
+>
+> The last release from this repository is v3.0.0 for Minecraft 26.2. Older releases remain available on this
+> repository's Releases page.
+
 A simple Fabric client-side mod that removes the player's jump cooldown and add air jump.
 
 ## Features
